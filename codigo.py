@@ -52,4 +52,5 @@ def main(pagina):
 
     pagina.add(botao_iniciar)
     
+    
 ft.app(target=main, assets_dir="assets", view=ft.WEB_BROWSER)
